@@ -17,5 +17,5 @@ API URL: https://api.myjson.com/bins/vt8zx
 * **ReachabilitySwift**
 
 ```
-Used to check for Internet Availablity
+Used to check for Internet Availability
 ```

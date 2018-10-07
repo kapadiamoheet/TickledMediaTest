@@ -1,0 +1,6 @@
+framework module Pods_TickledMediaTest {
+  umbrella header "Pods-TickledMediaTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
